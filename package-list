@@ -1,0 +1,6 @@
+com.coveo.spillway
+com.coveo.spillway.exception
+com.coveo.spillway.limit
+com.coveo.spillway.storage
+com.coveo.spillway.storage.utils
+com.coveo.spillway.trigger
